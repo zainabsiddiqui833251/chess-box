@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:blanchedalmond;
+}
+table{
+    border: 20px solid;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-style: ridge;
+    border-image: url(img/download\ \(1\).jpeg);
+    border-image-width: 752px;
+    margin-bottom: 5%;
+}
+td{
+    width: 90px;
+    height: 90px;
+    border-collapse: collapse;
+}
+.one{
+    background-image: url(img/download.jpeg);
+    font-size: 60px;
+    text-align: center;
+}
+.two{
+    background-image: url(img/download\ \(1\).jpeg);
+    font-size: 60px;
+    text-align: center;
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-shadow: 2px 2px 1px;
+    margin-bottom: 4%;
+    color: black;
+}
+img{
+    width: 80px;
+}
+.white{
+    color: white;
+}
